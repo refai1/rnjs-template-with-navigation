@@ -7,40 +7,40 @@ import { createBottomTabNavigator } from 'react-navigation-tabs';
 import { Feather as Icon } from "@expo/vector-icons";
 
 
-class EventsScreen extends React.Component{
+class Page1Screen extends React.Component{
     static navigationOptions = {
-        title: 'Events',
+        title: 'Page 1',
     };
     render() {
         return (
             <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
-                <Text>Events</Text>
+                <Text>Page 1</Text>
             </View>
         );
     }
 }
 
-class FightersScreen extends React.Component{
+class Page2Screen extends React.Component{
     static navigationOptions = {
-        title: 'Fighters',
+        title: 'Page 2',
     };
     render() {
         return (
             <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
-                <Text>Fighters</Text>
+                <Text>Page 2</Text>
             </View>
         );
     }
 }
 
-class FavoritesScreen extends React.Component{
+class Page3Screen extends React.Component{
     static navigationOptions = {
-        title: 'Favorites',
+        title: 'Page 3',
     };
     render() {
         return (
             <View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
-                <Text>Favorites</Text>
+                <Text>Page 3</Text>
             </View>
         );
     }
@@ -48,10 +48,10 @@ class FavoritesScreen extends React.Component{
 
 const TabNavigator = createBottomTabNavigator(
     {
-      Events: {
-        screen: EventsScreen,
+      Page1: {
+        screen: Page1Screen,
         navigationOptions: {
-          title: "Events",
+          title: "Page 1",
           tabBarIcon: 
           ( ({tintColor}) =>
             <Icon
@@ -62,10 +62,10 @@ const TabNavigator = createBottomTabNavigator(
           ),
         },
       },
-      Fighters: {
-        screen: FightersScreen,
+      Page2: {
+        screen: Page2Screen,
         navigationOptions: {
-          title: "Fighters",
+          title: "Page 2",
           tabBarIcon: 
           ( ({tintColor}) =>
             <Icon
@@ -76,10 +76,10 @@ const TabNavigator = createBottomTabNavigator(
           ),
         },
       },
-      Favorites: {
-        screen: FavoritesScreen,
+      Page3: {
+        screen: Page3Screen,
         navigationOptions: {
-          title: "Favorites",
+          title: "Page 3",
           tabBarIcon: 
           ( ({tintColor}) =>
             <Icon
@@ -94,7 +94,7 @@ const TabNavigator = createBottomTabNavigator(
   
   
     {
-      initialRouteName: 'Events',
+      initialRouteName: 'Page1',
       tabBarOptions: {
         showLabel: true,
         showIcon: true,
