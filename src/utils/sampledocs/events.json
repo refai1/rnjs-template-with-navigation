@@ -1,0 +1,383 @@
+{
+    "generated_at": "2019-10-17T21:39:03+00:00",
+    "competitions": [{
+        "id": "sr:competition:25357",
+        "name": "UFC Contender Series, Las Vegas, Week 26",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25399",
+        "name": "UFC Fight Night - Boise, Idaho",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25455",
+        "name": "UFC 226 - Las Vegas",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25457",
+        "name": "The Ultimate Fighter Finale - Las Vegas, week 27",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25517",
+        "name": "UFC Contender Series, Las Vegas, Week 28",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25613",
+        "name": "UFC Fight Night - St. Louis",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25617",
+        "name": "UFC 220 - Boston",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25619",
+        "name": "UFC Fight Night - Charlotte",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25621",
+        "name": "UFC Fight Night - Belem, Brazil",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25623",
+        "name": "UFC 221 - Perth",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25625",
+        "name": "UFC Fight Night - Austin",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25627",
+        "name": "UFC Fight Night - Orlando",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25629",
+        "name": "UFC 222 - Las Vegas",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25631",
+        "name": "UFC Fight Night - London",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25633",
+        "name": "UFC 223 - Brooklyn",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25635",
+        "name": "UFC Fight Night - Glendale",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25637",
+        "name": "UFC Fight Night - Atlantic City",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25639",
+        "name": "UFC 224 - Rio de Janeiro",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25641",
+        "name": "UFC Fight Night - Santiago de Chile",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25643",
+        "name": "UFC Fight Night - Liverpool",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25645",
+        "name": "UFC Fight Night - Utica",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25647",
+        "name": "UFC 225 - Chicago",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25649",
+        "name": "UFC Contender Series, Las Vegas, Week 24",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25651",
+        "name": "UFC Contender Series, Las Vegas, Week 25",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25653",
+        "name": "UFC Fight Night - Singapore",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25661",
+        "name": "UFC Contender Series, Las Vegas, Week 29"
+    }, {
+        "id": "sr:competition:25671",
+        "name": "UFC Fight Night - Hamburg",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25673",
+        "name": "UFC Contender Series, Las Vegas, Week 30",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25779",
+        "name": "UFC Fight Night - Calgary",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25781",
+        "name": "UFC 227 - Los Angeles",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25783",
+        "name": "UFC Fight Night - Lincoln",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25785",
+        "name": "UFC 228 - Dallas"
+    }, {
+        "id": "sr:competition:25787",
+        "name": "UFC Fight Night - Moscow",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25789",
+        "name": "UFC Fight Night - Sao Paulo",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25791",
+        "name": "UFC 229 - Las Vegas",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25793",
+        "name": "UFC Fight Night - Moncton",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25795",
+        "name": "UFC 230 - New York",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25797",
+        "name": "UFC Fight Night - Denver",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25799",
+        "name": "UFC Fight Night - Adelaide",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25801",
+        "name": "UFC 231 - Toronto",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25803",
+        "name": "UFC Fight Night - Milwaukee",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25805",
+        "name": "UFC 232 - Los Angeles",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25807",
+        "name": "The Ultimate Fighter Finale - Las Vegas, week 48",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25809",
+        "name": "UFC Contender Series, Las Vegas, Week 31",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:25863",
+        "name": "UFC Contender Series, Las Vegas, Week 32",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:27364",
+        "name": "UFC 233 - Anaheim",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:27366",
+        "name": "UFC Fight Night - New York",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:27472",
+        "name": "UFC Fight Night - Beijing",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:27474",
+        "name": "UFC Fight Night - Buenos Aires",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:27735",
+        "name": "UFC 234 - Melbourne",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:27737",
+        "name": "UFC 235 - Las Vegas",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:27773",
+        "name": "UFC Fight Night - Phoenix",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:27775",
+        "name": "UFC Fight Night - Castelao",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:27777",
+        "name": "UFC Fight Night - Wichita",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:27779",
+        "name": "UFC Fight Night - Prague",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28001",
+        "name": "UFC Fight Night - Philadelphia",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28003",
+        "name": "UFC Fight Night - Nashville",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28237",
+        "name": "UFC 236 - Atlanta",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28243",
+        "name": "UFC Fight Night - St. Petersburg",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28388",
+        "name": "UFC Fight Night - Sunrise",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28438",
+        "name": "UFC Fight Night - Ottawa",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28440",
+        "name": "UFC 237 - Barra da Tijuca",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28442",
+        "name": "UFC Fight Night - Rochester",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28444",
+        "name": "UFC Fight Night - Stockholm",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28446",
+        "name": "UFC 238 - Chicago",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28448",
+        "name": "UFC Fight Night - Greenville",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:28923",
+        "name": "UFC 241 - Anaheim",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29039",
+        "name": "Ufc Fight Night - Minneapolis",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29041",
+        "name": "Ufc 239 - Las Vegas",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29043",
+        "name": "Ufc Fight Night - Sacramento",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29045",
+        "name": "Ufc Fight Night - San Antonio",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29047",
+        "name": "Ufc 240 - Edmonton",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29073",
+        "name": "Ufc 242 - Abu Dhabi",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29218",
+        "name": "Dana Whites Contender Series - Season 3, Week 1",
+        "parent_id": "sr:competition:29216"
+    }, {
+        "id": "sr:competition:29278",
+        "name": "Dana White Contender Series, Season 3, Week 2",
+        "parent_id": "sr:competition:29216"
+    }, {
+        "id": "sr:competition:29284",
+        "name": "Ufc Fight Night - Newark",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29286",
+        "name": "Ufc Fight Night - Montevideo",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29288",
+        "name": "Dana White Contender Series, Season 3, Week 3",
+        "parent_id": "sr:competition:29216"
+    }, {
+        "id": "sr:competition:29290",
+        "name": "Dana White Contender Series, Season 3, Week 4",
+        "parent_id": "sr:competition:29216"
+    }, {
+        "id": "sr:competition:29498",
+        "name": "Ufc Fight Night - Shenzhen",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29502",
+        "name": "Dana White Contender Series, Season 3, Week 5",
+        "parent_id": "sr:competition:29216"
+    }, {
+        "id": "sr:competition:29504",
+        "name": "Dana White Contender Series, Season 3, Week 6",
+        "parent_id": "sr:competition:29216"
+    }, {
+        "id": "sr:competition:29516",
+        "name": "Dana White Contender Series, Season 3, Week 7",
+        "parent_id": "sr:competition:29216"
+    }, {
+        "id": "sr:competition:29696",
+        "name": "Dana White Contender Series, Season 3, Week 8"
+    }, {
+        "id": "sr:competition:29764",
+        "name": "Dana White Contender Series, Season 3, Week 9"
+    }, {
+        "id": "sr:competition:29808",
+        "name": "Ufc Fight Night - Vancouver",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29810",
+        "name": "Ufc Fight Night - Mexico City",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29910",
+        "name": "Ufc 243 - Melbourne",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29984",
+        "name": "Ufc Fight Night Copenhangen",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:29986",
+        "name": "Ufc Fight Night - Boston",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:30076",
+        "name": "Dana White Contender Series, Season 3, Week 10"
+    }, {
+        "id": "sr:competition:30370",
+        "name": "Ufc Fight Night - Tampa",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:30374",
+        "name": "Ufc 244 - New York City",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:30376",
+        "name": "Ufc Fight Night - Washington",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:30378",
+        "name": "Ufc 245 - Las Vegas",
+        "parent_id": "sr:competition:25325"
+    }, {
+        "id": "sr:competition:30380",
+        "name": "Ufc Fight Night - Busan",
+        "parent_id": "sr:competition:25325"
+    }]
+}
